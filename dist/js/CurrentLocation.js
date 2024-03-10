@@ -1,3 +1,5 @@
+// Collection of Data
+
 export default class CurrentLocation {
   constructor() {
     this._name = "Current Location";
